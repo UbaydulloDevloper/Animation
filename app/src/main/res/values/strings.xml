@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Ro\'yxatdan O\'tish</string>
+    <string name="toyOtish">Royhatdan o\'tish</string>
+    <string name="next">Next</string>
+    <string name="number">Number</string>
+    <string name="a_javob">A - Javob</string>
+    <string name="erkak">Erkak</string>
+    <string name="ayol">Ayol</string>
+    <string name="back">Back</string>
+    <string name="wather">Wather</string>
+    <string name="san_diega">San Diega</string>
+    <string name="current_location">Current Location</string>
+    <string name="_77_0">77°→ 0%</string>
+    <string name="_32_">32°→ 0%</string>
+    <string name="_56_">52°→ 0%</string>
+    <string name="_3_45_pm">3:45 PM</string>
+    <string name="paris">Paris</string>
+    <string name="new_york">New York</string>
+    <string name="yoki_royhatdan">yoki royhatdan o\'tish uchun telefon
+        raqamingizndan foydalaning
+    </string>
+    <string name="uzbekiston">Tasdiqlash kodini</string>
+    <string name="_998902901135">+998 902901135</string>
+    <string name="kirish">Tasdiqlash</string>
+    <string name="ro_yhatdan_o_tish">Ismlar ma\'nosi</string>
+    <string name="_998">+998</string>
+    <string name="qayta_olish">qayta olish</string>
+    <string name="_00_43">00:43</string>
+    <string name="o_g_il_bolalar_ismi">O\'g\'il bolalar ismi</string>
+    <string name="_11470">11470</string>
+    <string name="_9530">9530</string>
+    <string name="qiz_bolalar_ismi">Qiz bolalar ismi</string>
+    <string name="eng_ko_p_n_qidirilgan_ismlar">Eng ko\'p\n qidirilgan ismlar</string>
+    <string name="eng_ko_p_n_yoqqan_ismlar">Eng ko\'p\n yoqqan ismlar</string>
+    <string name="alfavit_nbo_yicha">Alfavit\nbo\'yicha</string>
+    <string name="scale">Scale</string>
+
+
+</resources>
